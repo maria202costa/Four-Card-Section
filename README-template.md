@@ -4,8 +4,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [](https://github.com/maria202costa/Four-Card-Section)
-- Live Site URL: [](https://four-card-section-gamma.vercel.app/)
+- Solution URL: [https://github.com/maria202costa/Four-Card-Section](https://github.com/maria202costa/Four-Card-Section)
+- Live Site URL: [https://four-card-section-gamma.vercel.app/](https://four-card-section-gamma.vercel.app/)
 
 ## My process
 
